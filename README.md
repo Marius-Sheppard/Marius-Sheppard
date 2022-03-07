@@ -3,10 +3,10 @@
 ⚡ 
 
 ### Find me on
-<img src = "Logos/twitter.png" alt = "Twitter" width = "30px" height = "30px" /> [@MariusSheppard](twitter.com/MariusSheppard)<br>
+<img src = "Logos/twitter.png" alt = "Twitter" width = "30px" height = "30px" /> [@MariusSheppard](https://twitter.com/MariusSheppard)<br>
 <img src = "Logos/discord.png" alt = "Discord" width = "30px" height = "30px" /> [Marius Sheppard#9287](https://discord.com/users/553142002129305602)<br>
 <img src = "Logos/instagram.png" alt = "Instagram" width = "30px" height = "30px" /> [marius_sheppard](https://www.instagram.com/marius_sheppard/)<br>
-<img src = "Logos/reddit.png" alt = "Reddit" width = "30px" height = "30px" /> [_MariusSheppard]()<br>
+<img src = "Logos/reddit.png" alt = "Reddit" width = "30px" height = "30px" /> [_MariusSheppard](https://www.reddit.com/user/_MariusSheppard)<br>
 <img src = "Logos/mail.png" alt = "Email" width = "30px" height = "30px" /> [admin@marius-sheppard.ml](mailto:admin@marius-sheppard.ml)<br>
 
  
