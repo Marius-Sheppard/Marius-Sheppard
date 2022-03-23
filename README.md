@@ -20,7 +20,7 @@
 
 ### Projects
 <a href = "https://github.com/Marius-Sheppard/">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=&theme=dark&hide_border" align = "center" />
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=CTF-Writeups-Archive&theme=dark&hide_border" align = "center" />
 </a>
 <a href = "https://github.com/Marius-Sheppard/">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=&theme=dark&hide_border" align = "center" />
