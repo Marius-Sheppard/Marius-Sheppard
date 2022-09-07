@@ -21,18 +21,17 @@
 ### Projects
 <a href = "https://github.com/Marius-Sheppard/CTF-Writeups-Archive">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=CTF-Writeups-Archive&theme=dark&hide_border" align = "center" />
-</a>
-<a href = "https://github.com/Marius-Sheppard/SpaceX-Viewer">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=SpaceX-Viewer&theme=dark&hide_border" align = "center" />
-</a>
+</a>  
+<a href = "https://github.com/Marius-Sheppard/FlutterSystemInfo">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=FlutterSystemInfo&theme=dark&hide_border" align = "center" />
+</a>  
 <br><br>
 <a href = "https://github.com/Marius-Sheppard/NSA-Tracker">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=NSA-Tracker&theme=dark&hide_border" align = "center" />
 </a>
-<a href = "https://github.com/Marius-Sheppard/">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=&theme=dark&hide_border" align = "center" />
-</a><br>
-
+<a href = "https://github.com/Marius-Sheppard/SpaceX-Viewer">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Marius-Sheppard&repo=SpaceX-Viewer&theme=dark&hide_border" align = "center" />
+</a>
 
 ### University
 <a href = "https://github.com/Marius-Sheppard/">
